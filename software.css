@@ -1,0 +1,43 @@
+.text{
+    font-size: 20px;
+    position: relative;
+    bottom: 200px;
+    left: 200px;
+    position: absolute;
+    color: rgba(238, 208, 208, 0.87);
+}
+.body{
+    background-image: url('background.jpg'); background-attachment: fixed ; background-repeat: no-repeat; background-size: cover;
+}
+.btn:hover{
+    background-color: rgba(217, 255, 0, 0.911);
+}
+.container1{
+   background-size: cover;
+}
+.container text{
+    position: static;
+}
+.container2{
+    position: relative;
+    top: 100px;
+}
+.class:hover{
+    background-color: rgba(0, 0, 0, 0.308);
+    border: none;
+    border-radius: 10px;
+    padding-left: auto;
+}
+.button{
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid rgba(128, 128, 128, 0.418);
+}
+.button:hover{
+    background-color: blanchedalmond;
+}
+.feature{
+    position: relative;
+    left: 70px;
+    width: 50%;
+}
